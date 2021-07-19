@@ -1,2 +1,1 @@
 # denops-quickpick
-
